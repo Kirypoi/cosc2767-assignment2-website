@@ -34,7 +34,7 @@
       <p>Here is the information you need to change:</p>
       <span class="badge badge-primary">CurrenChan</span>
       <br>
-      <span class="badge badge-secondary">Your student ID (sID)</span>
+      <span class="badge badge-secondary">gamer(sID)</span>
       <br>
       <span class="badge badge-success">Your Major (and Minor if possible)</span>
       <br>
